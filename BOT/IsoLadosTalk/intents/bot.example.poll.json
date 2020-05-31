@@ -1,0 +1,127 @@
+{
+  "id": "63d7b4d1-94fd-4c1c-9f98-c11f05f3316c",
+  "name": "bot.example.poll",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b50f4658-27b6-4b07-a4dd-c447fbf0497d",
+          "required": true,
+          "dataType": "@sys.geo-country",
+          "name": "value1",
+          "value": "$value1",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Hello, welcome to the place you would never expect to be during covid! :)\nIn which country do you currently reside?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bfa99a32-6e70-471f-883a-8afc3be33cf3",
+          "required": true,
+          "dataType": "@sys.geo-state",
+          "name": "value2",
+          "value": "$value2",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And in which state do you currently reside?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "afbfbd8e-fc1b-4cdb-86f7-f68e926b6312",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "value3",
+          "value": "$value3",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Great! A lot of people from you country is now using this platform!\nHow have you been lately?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ec1f020f-df88-471d-a3da-54f55b640e05",
+          "required": true,
+          "dataType": "@sys.age",
+          "name": "value4",
+          "value": "$value4",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Cool, and how old are you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "defaultValue": "Cool, and how old are you?",
+          "isList": false
+        },
+        {
+          "id": "04cd87ba-61df-4d0b-aa16-d1e7f35e470d",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "value5",
+          "value": "$value5",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And what is your gender?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thanks for being part of this project! Here`s my suggestion: join this group https://t.me/joinchat/Jhq5Dx0j0fxWxmsCl8yAfg to talk with other people around the world :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
