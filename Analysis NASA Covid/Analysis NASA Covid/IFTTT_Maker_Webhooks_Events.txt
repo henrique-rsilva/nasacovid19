@@ -1,0 +1,57 @@
+"May 31, 2020 at 04:35PM",poll_completed,Brazil,State of São Paulo,Good!! What about you?,17,Female
+"May 31, 2020 at 04:37PM",poll_completed,Brazil,State of São Paulo,bored,18,Female
+"May 31, 2020 at 04:37PM",poll_completed,Brazil,State of São Paulo,I have been nice,16,Female
+"May 31, 2020 at 04:38PM",poll_completed,Brazil,State of São Paulo,I'm sad,16,Female
+"May 31, 2020 at 04:39PM",poll_completed,Brazil,State of São Paulo,Okk,15,Male
+"May 31, 2020 at 04:39PM",poll_completed,Brazil,State of São Paulo,I don't want to say,19,Male
+"May 31, 2020 at 04:39PM",poll_completed,Brazil,State of São Paulo,Tired,20,male
+"May 31, 2020 at 04:41PM",poll_completed,Brazil,State of São Paulo,Everything is ok,21,Male
+"May 31, 2020 at 04:41PM",poll_completed,Brazil,State of São Paulo,I am good,22,Female
+"May 31, 2020 at 04:41PM",poll_completed,Brazil,State of São Paulo,Not ok,29,female
+"May 31, 2020 at 04:41PM",poll_completed,Brazil,State of São Paulo,Bored,29,Female
+"May 31, 2020 at 04:42PM",poll_completed,Brazil,State of São Paulo,Life is boring,22,Male
+"May 31, 2020 at 04:42PM",poll_completed,Brazil,State of São Paulo,I am doing ok,24,Female
+"May 31, 2020 at 04:42PM",poll_completed,Brazil,State of São Paulo,I am ok,29,Female
+"May 31, 2020 at 04:47PM",poll_completed,Brazil,State of São Paulo,I am not very good today,27,Male
+"May 31, 2020 at 04:47PM",poll_completed,Brazil,State of São Paulo,A little bit tired,29,male
+"May 31, 2020 at 04:47PM",poll_completed,Brazil,State of São Paulo,Tired of doing the same things,16,Male
+"May 31, 2020 at 04:47PM",poll_completed,Brazil,State of São Paulo,I have headache,21,Female
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,I am feeling well,21,female
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,Lonely,23,Female
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,I miss my family,24,Male
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,I am ok,20,Male
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,I`m not so good,26,male
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,I miss my girlfriend,29,Male
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,Normal,21,Female
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,I am ok,20,female
+"May 31, 2020 at 04:50PM",poll_completed,Brazil,State of São Paulo,Ok,16,Male
+"May 31, 2020 at 04:53PM",poll_completed,Brazil,State of São Paulo,I`ve been busy,27,Female
+"May 31, 2020 at 04:53PM",poll_completed,Brazil,State of São Paulo,"I`m not that good, but ok",30,Female
+"May 31, 2020 at 04:53PM",poll_completed,Brazil,State of São Paulo,I have not slept very well last night,23,Male
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,Ok,19,Male
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I am feeling normal,19,Female
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I have been great,24,Female
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I am not ok,24,Female
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I am a little bit tired of working,20,Male
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I have been working a lot,18,Male
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I am not sure,25,Female
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I have been listening to some music,24,Male
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I have been alone in SP,25,Female
+"May 31, 2020 at 04:57PM",poll_completed,Brazil,State of São Paulo,I am not sure about my feelings,23,Female
+"May 31, 2020 at 04:59PM",poll_completed,Brazil,State of São Paulo,Bored,26,Female
+"May 31, 2020 at 04:59PM",poll_completed,Brazil,State of São Paulo,tired,17,Female
+"May 31, 2020 at 04:59PM",poll_completed,Brazil,State of São Paulo,Not ok,25,Male
+"May 31, 2020 at 04:59PM",poll_completed,Brazil,State of São Paulo,Why?,24,Male
+"May 31, 2020 at 04:59PM",poll_completed,Brazil,State of São Paulo,I am kind of busy,25,Female
+"May 31, 2020 at 05:01PM",poll_completed,Brazil,State of São Paulo,Watching TV makes me nervous,25,Female
+"May 31, 2020 at 05:01PM",poll_completed,Brazil,State of São Paulo,I am getting sick because of the news,27,male
+"May 31, 2020 at 05:01PM",poll_completed,Brazil,State of São Paulo,Iam ok,24,Male
+"May 31, 2020 at 05:01PM",poll_completed,Brazil,State of São Paulo,ok,19,Female
+"May 31, 2020 at 05:01PM",poll_completed,Brazil,State of São Paulo,I fell happy,20,female
+"May 31, 2020 at 05:01PM",poll_completed,Brazil,State of São Paulo,I am great,18,Male
+"May 31, 2020 at 05:02PM",poll_completed,Brazil,State of São Paulo,I am so so,26,Male
+"May 31, 2020 at 05:02PM",poll_completed,Brazil,State of São Paulo,I am not very ok,17,Female
+"May 31, 2020 at 05:06PM",poll_completed,Brazil,State of São Paulo,I am doing well,17,Female
+"May 31, 2020 at 05:06PM",poll_completed,Brazil,State of São Paulo,great,24,Male
+"May 31, 2020 at 05:06PM",poll_completed,Brazil,State of São Paulo,Well,23,Female
+"May 31, 2020 at 05:06PM",poll_completed,Brazil,State of São Paulo,Happy,21,male
